@@ -1,7 +1,7 @@
 {
     "domain": "lidarr_upcoming_media",
     "name": "Lidarr Upcoming Media",
-    "version": "0.1",
+    "version": "0.2",
     "documentation": "https://github.com/JackJPowell/sensor.lidarr_upcoming_media",
     "dependencies": [],
     "codeowners": ["@jackjpowell"],
